@@ -415,6 +415,1502 @@
          Worldwide NGO Directory
         </div>
         <div class="content">
+         <script language="JavaScript">
+          function goPage( page , f1 , f2 )
+		{
+			
+			document.list.currpage.value = page;
+			//if( f1 ) 
+			document.list.ffrom.value = f1;
+			//if( f2 ) 
+			document.list.fto.value = f2;
+			document.list.submit();
+		}
+         </script>
+         <p class="pagesubtitle" style="color: #cc3300;">
+          South America
+         </p>
+         <form action="/resources.aspx?section=ngodir&amp;sub=list&amp;regionID=5&amp;col=cc3300" method="POST" name="list">
+          <input name="Countries" type="hidden" value="32,68,76,152,170,218,238,254,328,600,604,740,858,862,0"/>
+          <input name="InterestAreas" type="hidden" value="ALL"/>
+          <input name="currpage" type="hidden" value=""/>
+          <input name="keyword" type="hidden" value=""/>
+          <input name="searching" type="hidden" value=""/>
+          <input name="search_regionID" type="hidden" value=""/>
+          <input name="search_country" type="hidden" value=""/>
+          <input name="search_state" type="hidden" value=""/>
+          <input name="search_mission" type="hidden" value=""/>
+          <input name="search_focus" type="hidden" value=""/>
+          <input name="search_city" type="hidden" value=""/>
+          <input name="ffrom" type="hidden" value=""/>
+          <input name="fto" type="hidden" value="zz"/>
+         </form>
+         <div class="ngodirButton" style="float:right;">
+          <a href="/resources.aspx?section=ngodir">
+           NEW SEARCH
+          </a>
+         </div>
+         <div>
+          <em>
+           Total organizations:
+           <b>
+            652
+           </b>
+           , showing:
+           <b>
+            1 - 50
+           </b>
+           . Click on organization name to view details.
+          </em>
+         </div>
+         <p align="left">
+          <b>
+           show all
+          </b>
+          <a href="javascript:goPage('1', '', 'a');void(0);">
+           non-alphabetic
+          </a>
+          <a href="javascript:goPage('1', 'a', 'b');void(0);">
+           A
+          </a>
+          <a href="javascript:goPage('1', 'b', 'c');void(0);">
+           B
+          </a>
+          <a href="javascript:goPage('1', 'c', 'd');void(0);">
+           C
+          </a>
+          <a href="javascript:goPage('1', 'd', 'e');void(0);">
+           D
+          </a>
+          <a href="javascript:goPage('1', 'e', 'f');void(0);">
+           E
+          </a>
+          <a href="javascript:goPage('1', 'f', 'g');void(0);">
+           F
+          </a>
+          <a href="javascript:goPage('1', 'g', 'h');void(0);">
+           G
+          </a>
+          <a href="javascript:goPage('1', 'h', 'i');void(0);">
+           H
+          </a>
+          <a href="javascript:goPage('1', 'i', 'j');void(0);">
+           I
+          </a>
+          <a href="javascript:goPage('1', 'j', 'k');void(0);">
+           J
+          </a>
+          <a href="javascript:goPage('1', 'k', 'l');void(0);">
+           K
+          </a>
+          <a href="javascript:goPage('1', 'l', 'm');void(0);">
+           L
+          </a>
+          <a href="javascript:goPage('1', 'm', 'n');void(0);">
+           M
+          </a>
+          <a href="javascript:goPage('1', 'n', 'o');void(0);">
+           N
+          </a>
+          <a href="javascript:goPage('1', 'o', 'p');void(0);">
+           O
+          </a>
+          <a href="javascript:goPage('1', 'p', 'q');void(0);">
+           P
+          </a>
+          <a href="javascript:goPage('1', 'q', 'r');void(0);">
+           Q
+          </a>
+          <a href="javascript:goPage('1', 'r', 's');void(0);">
+           R
+          </a>
+          <a href="javascript:goPage('1', 's', 't');void(0);">
+           S
+          </a>
+          <a href="javascript:goPage('1', 't', 'u');void(0);">
+           T
+          </a>
+          <a href="javascript:goPage('1', 'u', 'v');void(0);">
+           U
+          </a>
+          <a href="javascript:goPage('1', 'v', 'w');void(0);">
+           V
+          </a>
+          <a href="javascript:goPage('1', 'w', 'x');void(0);">
+           W
+          </a>
+          <span style="color: #999999">
+           X
+          </span>
+          <span style="color: #999999">
+           Y
+          </span>
+          <a href="javascript:goPage('1', 'z', 'zz');void(0);">
+           Z
+          </a>
+         </p>
+         <table cellpadding="0" cellspacing="0" class="contentmargin0" width="96%">
+          <tr>
+           <td valign="top">
+            <div align="left">
+             Page:
+             <b>
+              1
+             </b>
+             <a href="javascript:goPage('2',  '', 'zz');void(0);">
+              2
+             </a>
+             <a href="javascript:goPage('3',  '', 'zz');void(0);">
+              3
+             </a>
+             <a href="javascript:goPage('4',  '', 'zz');void(0);">
+              4
+             </a>
+             <a href="javascript:goPage('5',  '', 'zz');void(0);">
+              5
+             </a>
+             <a href="javascript:goPage('6',  '', 'zz');void(0);">
+              6
+             </a>
+             <a href="javascript:goPage('7',  '', 'zz');void(0);">
+              7
+             </a>
+             <a href="javascript:goPage('8',  '', 'zz');void(0);">
+              8
+             </a>
+             <a href="javascript:goPage('9',  '', 'zz');void(0);">
+              9
+             </a>
+             <a href="javascript:goPage('10',  '', 'zz');void(0);">
+              10
+             </a>
+             <a href="javascript:goPage('11',  '', 'zz');void(0);">
+              11
+             </a>
+             <a href="javascript:goPage('12',  '', 'zz');void(0);">
+              12
+             </a>
+             <a href="javascript:goPage('13',  '', 'zz');void(0);">
+              13
+             </a>
+             <a href="javascript:goPage('14',  '', 'zz');void(0);">
+              14
+             </a>
+             <a href="javascript:goPage('14',  '', 'zz');void(0);">
+              &gt;
+             </a>
+             <a href="javascript:goPage('14',  '', 'zz');void(0);">
+              &gt;&gt;
+             </a>
+            </div>
+            <br/>
+            <!-- <tr> 
+      <td class="ngodir_td_red"><b>Organization</b></td>
+     <td class="ngodir_td_red"><b>Country</b></td>
+  </tr>-->
+            <img height="5" src="images/0.gif" width="10"/>
+            <br/>
+            <script language="javascript">
+             function loadOrg( id )
+{
+	if( !document.getElementById  )
+	{
+		cpopUp('org_details.aspx?orgID=' + id );
+	}
+	else 
+	{
+		var f = document.getElementById( "loader" );
+		if( f.innerHTML == "" || !f.contentWindow ) cpopUp('org_details.aspx?orgID=' + id );
+		else
+		{
+			//if already loaded, hide
+			var t = document.getElementById( "d" + id );
+			if( t.style.display == "block" ) hideOrgDetails( id );
+			else 
+			{
+				document.getElementById( "s" + id ).style.display="none";
+				document.getElementById( "l" + id ).style.display="block";
+				f.src = "org_details.aspx?inline=1&orgID=" + id; //load data
+			}
+		}
+	}
+}
+
+function onLoadOrg( id )
+{
+	document.getElementById( "l" + id ).style.display="none";
+	document.getElementById( "s" + id ).style.display="none";
+	var t = document.getElementById( "d" + id );
+	var f = document.getElementById( "loader" );
+	t.innerHTML = f.contentWindow.document.getElementById( "content" ).innerHTML;
+	t.style.display = "block";
+}
+function hideOrgDetails( id )
+{
+	document.getElementById( "d" + id ).style.display="none";
+	document.getElementById( "s" + id ).style.display="block";
+}
+            </script>
+            <a href="javascript:loadOrg('10577115');">
+             <b>
+              Associao Ondas Verdes
+             </b>
+            </a>
+            <br/>
+            <div id="l10577115" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10577115">
+             <div class="contentmargin0" style="color:#666666;">
+              Antonio Almeida, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil</td>-->
+            <div id="d10577115">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10571270');">
+             <b>
+              Mision Vida (en Accion Humanitaria)
+             </b>
+            </a>
+            <br/>
+            <div id="l10571270" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10571270">
+             <div class="contentmargin0" style="color:#666666;">
+              Buenos Aires, Argentina
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Argentina</td>-->
+            <div id="d10571270">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10584513');">
+             <b>
+              360 Negociacion
+             </b>
+            </a>
+            <br/>
+            <div id="l10584513" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10584513">
+             <div class="contentmargin0" style="color:#666666;">
+              Capital Federal, Argentina
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Argentina</td>-->
+            <div id="d10584513">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568272');">
+             <b>
+              AACRI
+             </b>
+            </a>
+            <br/>
+            <div id="l10568272" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568272">
+             <div class="contentmargin0" style="color:#666666;">
+              Pichincha, Ecuador
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Ecuador </td>-->
+            <div id="d10568272">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10584315');">
+             <b>
+              ABCR
+             </b>
+            </a>
+            <br/>
+            <div id="l10584315" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10584315">
+             <div class="contentmargin0" style="color:#666666;">
+              Sao Paulo, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil</td>-->
+            <div id="d10584315">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568276');">
+             <b>
+              Academia de Desenvolvimento Social (Social Development Academy Institute)
+             </b>
+            </a>
+            <br/>
+            <div id="l10568276" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568276">
+             <div class="contentmargin0" style="color:#666666;">
+              Boa Vista â Recife/PE, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil </td>-->
+            <div id="d10568276">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7716');">
+             <b>
+              Academia Internacional de Odontologia Integral (AIOI)
+             </b>
+            </a>
+            <br/>
+            <div id="l7716" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7716">
+             <div class="contentmargin0" style="color:#666666;">
+              Lima 33, Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru</td>-->
+            <div id="d7716">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568278');">
+             <b>
+              Accion por los NiÃ±os
+             </b>
+            </a>
+            <br/>
+            <div id="l10568278" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568278">
+             <div class="contentmargin0" style="color:#666666;">
+              Lima 12 - PerÃº, Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru </td>-->
+            <div id="d10568278">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568283');">
+             <b>
+              Action Without Borders - Idealistas.org, Buenos Aires
+             </b>
+            </a>
+            <br/>
+            <div id="l10568283" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568283">
+             <div class="contentmargin0" style="color:#666666;">
+              New York, NY, Argentina
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Argentina </td>-->
+            <div id="d10568283">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10575723');">
+             <b>
+              ADECRA
+             </b>
+            </a>
+            <br/>
+            <div id="l10575723" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10575723">
+             <div class="contentmargin0" style="color:#666666;">
+              Buenos Aires, Argentina
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Argentina</td>-->
+            <div id="d10575723">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568290');">
+             <b>
+              Adopt a Grandparent (Adopta un Abuelito), Inc.
+             </b>
+            </a>
+            <br/>
+            <div id="l10568290" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568290">
+             <div class="contentmargin0" style="color:#666666;">
+              Norwood, MA, Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru </td>-->
+            <div id="d10568290">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568292');">
+             <b>
+              AEC-TEA
+             </b>
+            </a>
+            <br/>
+            <div id="l10568292" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568292">
+             <div class="contentmargin0" style="color:#666666;">
+              Capim Grosso - Bahia, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil </td>-->
+            <div id="d10568292">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568295');">
+             <b>
+              AFS Intercultura, Brasil
+             </b>
+            </a>
+            <br/>
+            <div id="l10568295" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568295">
+             <div class="contentmargin0" style="color:#666666;">
+              New York, NY, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil </td>-->
+            <div id="d10568295">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7921');">
+             <b>
+              Agencia Lationamericana de Informacion (ALAI)
+             </b>
+            </a>
+            <br/>
+            <div id="l7921" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7921">
+             <div class="contentmargin0" style="color:#666666;">
+              Quito, Ecuador
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Ecuador</td>-->
+            <div id="d7921">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('17883');">
+             <b>
+              AGODI
+             </b>
+            </a>
+            <br/>
+            <div id="l17883" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s17883">
+             <div class="contentmargin0" style="color:#666666;">
+              Buenos Aires, Argentina
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Argentina</td>-->
+            <div id="d17883">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568300');">
+             <b>
+              Agrovida, Peru
+             </b>
+            </a>
+            <br/>
+            <div id="l10568300" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568300">
+             <div class="contentmargin0" style="color:#666666;">
+              El Porvenir, Trujillo - La Libertad - PerÃº., Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru </td>-->
+            <div id="d10568300">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('824');">
+             <b>
+              Aguia Dourada Organizacao Multicultural Indigena do Nordeste
+             </b>
+            </a>
+            <br/>
+            <div id="l824" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s824">
+             <div class="contentmargin0" style="color:#666666;">
+              Bahia, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil</td>-->
+            <div id="d824">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10586209');">
+             <b>
+              AIBEX
+             </b>
+            </a>
+            <br/>
+            <div id="l10586209" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10586209">
+             <div class="contentmargin0" style="color:#666666;">
+              Montevideo, Uruguay
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Uruguay</td>-->
+            <div id="d10586209">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568301');">
+             <b>
+              AJA Professional Education, Brazil
+             </b>
+            </a>
+            <br/>
+            <div id="l10568301" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568301">
+             <div class="contentmargin0" style="color:#666666;">
+              Brasilia, DF, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil </td>-->
+            <div id="d10568301">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568304');">
+             <b>
+              Albatross Foundation Fundacion Albatros
+             </b>
+            </a>
+            <br/>
+            <div id="l10568304" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568304">
+             <div class="contentmargin0" style="color:#666666;">
+              Galapagos, Ecuador
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Ecuador </td>-->
+            <div id="d10568304">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10580947');">
+             <b>
+              Aldeas de Paz
+             </b>
+            </a>
+            <br/>
+            <div id="l10580947" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10580947">
+             <div class="contentmargin0" style="color:#666666;">
+              Santa Elena de Uairen, Venezuela
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Venezuela</td>-->
+            <div id="d10580947">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10524177');">
+             <b>
+              Alfabetizao Solidaria
+             </b>
+            </a>
+            <br/>
+            <div id="l10524177" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10524177">
+             <div class="contentmargin0" style="color:#666666;">
+              So Paulo, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil</td>-->
+            <div id="d10524177">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10577383');">
+             <b>
+              AlfaSol
+             </b>
+            </a>
+            <br/>
+            <div id="l10577383" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10577383">
+             <div class="contentmargin0" style="color:#666666;">
+              SÃ£o Paulo, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil</td>-->
+            <div id="d10577383">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10578582');">
+             <b>
+              AlfaSol
+             </b>
+            </a>
+            <br/>
+            <div id="l10578582" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10578582">
+             <div class="contentmargin0" style="color:#666666;">
+              Sao Paulo, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil</td>-->
+            <div id="d10578582">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7684');">
+             <b>
+              Alianza del Mutualismo de America (AMA)
+             </b>
+            </a>
+            <br/>
+            <div id="l7684" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7684">
+             <div class="contentmargin0" style="color:#666666;">
+              Buenos Aires, Argentina
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Argentina</td>-->
+            <div id="d7684">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7950');">
+             <b>
+              Alianza Esprititualista Internacional (AEI)
+             </b>
+            </a>
+            <br/>
+            <div id="l7950" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7950">
+             <div class="contentmargin0" style="color:#666666;">
+              Santiago, Chile
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Chile</td>-->
+            <div id="d7950">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7966');">
+             <b>
+              Alliance of Presbyterian and Reformed Churches in Latin America
+             </b>
+            </a>
+            <br/>
+            <div id="l7966" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7966">
+             <div class="contentmargin0" style="color:#666666;">
+              Caracas 1071, Venezuela
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Venezuela</td>-->
+            <div id="d7966">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('17172');">
+             <b>
+              Alter Vida, Center of Studies and Training for Eco-Development
+             </b>
+            </a>
+            <br/>
+            <div id="l17172" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s17172">
+             <div class="contentmargin0" style="color:#666666;">
+              Asuncion, Paraguay
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Paraguay</td>-->
+            <div id="d17172">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7971');">
+             <b>
+              Amateur Swimming Union of the Americas (ASUA)
+             </b>
+            </a>
+            <br/>
+            <div id="l7971" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7971">
+             <div class="contentmargin0" style="color:#666666;">
+              Montevideo, Uruguay
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Uruguay</td>-->
+            <div id="d7971">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568312');">
+             <b>
+              Amauta International, LLC
+             </b>
+            </a>
+            <br/>
+            <div id="l10568312" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568312">
+             <div class="contentmargin0" style="color:#666666;">
+              West Hartford, CT, Colombia
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Colombia </td>-->
+            <div id="d10568312">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7972');">
+             <b>
+              Amazon System Information (SIAMAZ)
+             </b>
+            </a>
+            <br/>
+            <div id="l7972" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7972">
+             <div class="contentmargin0" style="color:#666666;">
+              Para, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil</td>-->
+            <div id="d7972">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10583244');">
+             <b>
+              Amazonas
+             </b>
+            </a>
+            <br/>
+            <div id="l10583244" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10583244">
+             <div class="contentmargin0" style="color:#666666;">
+              Villa Rica, Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru</td>-->
+            <div id="d10583244">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7973');">
+             <b>
+              Amazonian Parliament
+             </b>
+            </a>
+            <br/>
+            <div id="l7973" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7973">
+             <div class="contentmargin0" style="color:#666666;">
+              Caracas, Venezuela
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Venezuela</td>-->
+            <div id="d7973">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568316');">
+             <b>
+              Amigos de Iracambi
+             </b>
+            </a>
+            <br/>
+            <div id="l10568316" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568316">
+             <div class="contentmargin0" style="color:#666666;">
+              Minas Gerais, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil </td>-->
+            <div id="d10568316">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10568318');">
+             <b>
+              Amnistia Internacional, Ecuador
+             </b>
+            </a>
+            <br/>
+            <div id="l10568318" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10568318">
+             <div class="contentmargin0" style="color:#666666;">
+              New York, Ecuador
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Ecuador </td>-->
+            <div id="d10568318">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10345');">
+             <b>
+              Amparo ao Menor Carente, Brazil (Amencar)
+             </b>
+            </a>
+            <br/>
+            <div id="l10345" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10345">
+             <div class="contentmargin0" style="color:#666666;">
+              sao Leopoldo RS, Brazil
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Brazil</td>-->
+            <div id="d10345">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('10524097');">
+             <b>
+              Ancic- Asociacion Nacer Crecer En Igualdad De Condiciones
+             </b>
+            </a>
+            <br/>
+            <div id="l10524097" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s10524097">
+             <div class="contentmargin0" style="color:#666666;">
+              Ong. Sin Fines De Lucro, Argentina
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Argentina</td>-->
+            <div id="d10524097">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7987');">
+             <b>
+              Andean Center for Development, Research and Training, Argentina
+             </b>
+            </a>
+            <br/>
+            <div id="l7987" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7987">
+             <div class="contentmargin0" style="color:#666666;">
+              San Miguel de Tucuman, Argentina
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Argentina</td>-->
+            <div id="d7987">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7989');">
+             <b>
+              Andean Commission of Jurists (ACJ)
+             </b>
+            </a>
+            <br/>
+            <div id="l7989" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7989">
+             <div class="contentmargin0" style="color:#666666;">
+              Lima 27, Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru</td>-->
+            <div id="d7989">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7990');">
+             <b>
+              Andean Common Market (ANCOM)
+             </b>
+            </a>
+            <br/>
+            <div id="l7990" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7990">
+             <div class="contentmargin0" style="color:#666666;">
+              Lima 18, Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru</td>-->
+            <div id="d7990">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7991');">
+             <b>
+              Andean Community
+             </b>
+            </a>
+            <br/>
+            <div id="l7991" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7991">
+             <div class="contentmargin0" style="color:#666666;">
+              Lima 27, Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru</td>-->
+            <div id="d7991">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7992');">
+             <b>
+              Andean Council of Foreign Ministers
+             </b>
+            </a>
+            <br/>
+            <div id="l7992" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7992">
+             <div class="contentmargin0" style="color:#666666;">
+              Lima 27, Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru</td>-->
+            <div id="d7992">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7993');">
+             <b>
+              Andean Development Corporation
+             </b>
+            </a>
+            <br/>
+            <div id="l7993" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7993">
+             <div class="contentmargin0" style="color:#666666;">
+              Caracas, Venezuela
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Venezuela</td>-->
+            <div id="d7993">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7994');">
+             <b>
+              Andean Forests and Development Foundation
+             </b>
+            </a>
+            <br/>
+            <div id="l7994" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7994">
+             <div class="contentmargin0" style="color:#666666;">
+              Santafe de Bogota, Colombia
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Colombia</td>-->
+            <div id="d7994">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7995');">
+             <b>
+              Andean Information Network (AIN)
+             </b>
+            </a>
+            <br/>
+            <div id="l7995" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7995">
+             <div class="contentmargin0" style="color:#666666;">
+              Cochabamba, Bolivia
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Bolivia</td>-->
+            <div id="d7995">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7997');">
+             <b>
+              Andean Institute of Popular Arts
+             </b>
+            </a>
+            <br/>
+            <div id="l7997" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7997">
+             <div class="contentmargin0" style="color:#666666;">
+              Quito, Ecuador
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Ecuador</td>-->
+            <div id="d7997">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7998');">
+             <b>
+              Andean Integration System
+             </b>
+            </a>
+            <br/>
+            <div id="l7998" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7998">
+             <div class="contentmargin0" style="color:#666666;">
+              Lima 27, Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru</td>-->
+            <div id="d7998">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('7999');">
+             <b>
+              Andean Parliament
+             </b>
+            </a>
+            <br/>
+            <div id="l7999" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s7999">
+             <div class="contentmargin0" style="color:#666666;">
+              Santafe de Bogota, Colombia
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Colombia</td>-->
+            <div id="d7999">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('8000');">
+             <b>
+              Andean Presidential Council
+             </b>
+            </a>
+            <br/>
+            <div id="l8000" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s8000">
+             <div class="contentmargin0" style="color:#666666;">
+              Lima 27, Peru
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Peru</td>-->
+            <div id="d8000">
+            </div>
+            <br/>
+            <a href="javascript:loadOrg('8001');">
+             <b>
+              Andean Zone Network for Durable Resistance
+             </b>
+            </a>
+            <br/>
+            <div id="l8001" style="display:none;">
+             <img src="images/resources/loading.gif"/>
+            </div>
+            <div id="s8001">
+             <div class="contentmargin0" style="color:#666666;">
+              Quito, Ecuador
+             </div>
+             <div class="contentmargin0">
+             </div>
+            </div>
+            <!--<td valign="top">Ecuador</td>-->
+            <div id="d8001">
+            </div>
+            <br/>
+            <div align="left">
+             Page:
+             <b>
+              1
+             </b>
+             <a href="javascript:goPage('2',  '', 'zz');void(0);">
+              2
+             </a>
+             <a href="javascript:goPage('3',  '', 'zz');void(0);">
+              3
+             </a>
+             <a href="javascript:goPage('4',  '', 'zz');void(0);">
+              4
+             </a>
+             <a href="javascript:goPage('5',  '', 'zz');void(0);">
+              5
+             </a>
+             <a href="javascript:goPage('6',  '', 'zz');void(0);">
+              6
+             </a>
+             <a href="javascript:goPage('7',  '', 'zz');void(0);">
+              7
+             </a>
+             <a href="javascript:goPage('8',  '', 'zz');void(0);">
+              8
+             </a>
+             <a href="javascript:goPage('9',  '', 'zz');void(0);">
+              9
+             </a>
+             <a href="javascript:goPage('10',  '', 'zz');void(0);">
+              10
+             </a>
+             <a href="javascript:goPage('11',  '', 'zz');void(0);">
+              11
+             </a>
+             <a href="javascript:goPage('12',  '', 'zz');void(0);">
+              12
+             </a>
+             <a href="javascript:goPage('13',  '', 'zz');void(0);">
+              13
+             </a>
+             <a href="javascript:goPage('14',  '', 'zz');void(0);">
+              14
+             </a>
+             <a href="javascript:goPage('14',  '', 'zz');void(0);">
+              &gt;
+             </a>
+             <a href="javascript:goPage('14',  '', 'zz');void(0);">
+              &gt;&gt;
+             </a>
+            </div>
+            <img height="1" src="images/0.gif" width="200"/>
+            <a href="javascript:goPage('2' , '', 'zz');void(0);">
+             <b>
+              Next 50 &gt;&gt;
+             </b>
+            </a>
+           </td>
+           <td align="right" valign="top">
+            <div>
+             <form action="/resources.aspx?section=ngodir&amp;sub=list&amp;newsearch=1&amp;regionID=5&amp;col=cc3300" method="POST" name="fs">
+              <!--<div class="ngodirButton"><a href="/resources.aspx?section=ngodir">NEW SEARCH</a></div>-->
+              <br/>
+              <div>
+               Countries:
+              </div>
+              <div align="center" style="border: 1px solid #ABC875;width:170px;overflow: hidden;margin-right: 2px;">
+               <select id="Countries" multiple="multiple" name="Countries" size="8" style="width:176px;margin:-4px;">
+                <option value="32,68,76,152,170,218,238,254,328,600,604,740,858,862,0">
+                 All
+                </option>
+                <option disabled="disabled" value="32,68,76,152,170,218,238,254,328,600,604,740,858,862,0">
+                 ---------------------------------------------
+                </option>
+                <option value="32">
+                 Argentina
+                </option>
+                <option value="68">
+                 Bolivia
+                </option>
+                <option value="76">
+                 Brazil
+                </option>
+                <option value="152">
+                 Chile
+                </option>
+                <option value="170">
+                 Colombia
+                </option>
+                <option value="218">
+                 Ecuador
+                </option>
+                <option value="238">
+                 Falkland Islands (Malvinas)
+                </option>
+                <option value="254">
+                 French Guiana
+                </option>
+                <option value="328">
+                 Guyana
+                </option>
+                <option value="600">
+                 Paraguay
+                </option>
+                <option value="604">
+                 Peru
+                </option>
+                <option value="740">
+                 Suriname
+                </option>
+                <option value="858">
+                 Uruguay
+                </option>
+                <option value="862">
+                 Venezuela
+                </option>
+               </select>
+              </div>
+              <div style="margin-top:4px;">
+               Areas of Activity:
+              </div>
+              <div align="center" style="border: 1px solid #ABC875;width:170px;overflow: hidden; margin-right: 2px;">
+               <select id="InterestAreas" multiple="multiple" name="InterestAreas" size="8" style="width:176px;margin: -4px;">
+                <option selected="" value="ALL">
+                 All
+                </option>
+                <option disabled="disabled" value="ALL">
+                 ---------------------------------------------
+                </option>
+                <option value="Ageing">
+                 Ageing
+                </option>
+                <option value="Agriculture and Food">
+                 Agriculture and Food
+                </option>
+                <option value="Animal Health and Rights">
+                 Animal Health and Rights
+                </option>
+                <option value="Business &amp; Economic Policy">
+                 Business &amp; Economic Policy
+                </option>
+                <option value="Children &amp; Youth">
+                 Children &amp; Youth
+                </option>
+                <option value="Communications &amp; Media">
+                 Communications &amp; Media
+                </option>
+                <option value="Conflict Resolution">
+                 Conflict Resolution
+                </option>
+                <option value="Development">
+                 Development
+                </option>
+                <option value="Education">
+                 Education
+                </option>
+                <option selected="" value="Environment">
+                 Environment
+                </option>
+                <option value="Family">
+                 Family
+                </option>
+                <option value="Health &amp; Nutrition">
+                 Health &amp; Nutrition
+                </option>
+                <option value="Human Rights">
+                 Human Rights
+                </option>
+                <option value="Indigenous People">
+                 Indigenous People
+                </option>
+                <option value="International Organization">
+                 International Organization
+                </option>
+                <option value="Labor">
+                 Labor
+                </option>
+                <option value="Law &amp; Legal Affairs">
+                 Law &amp; Legal Affairs
+                </option>
+                <option value="Narcotics, Drugs &amp; Crime">
+                 Narcotics, Drugs &amp; Crime
+                </option>
+                <option value="Peace and Security">
+                 Peace and Security
+                </option>
+                <option value="Population/ Human Settlements">
+                 Population/ Human Settlements
+                </option>
+                <option value="Refugees">
+                 Refugees
+                </option>
+                <option value="Relief Services">
+                 Relief Services
+                </option>
+                <option value="Religion, Belief &amp; Ethics">
+                 Religion, Belief &amp; Ethics
+                </option>
+                <option value="Science and Technology">
+                 Science and Technology
+                </option>
+                <option value="Social and Cultural Development">
+                 Social and Cultural Development
+                </option>
+                <option value="Sports &amp; Recreation">
+                 Sports &amp; Recreation
+                </option>
+                <option value="Trade &amp; International Finance">
+                 Trade &amp; International Finance
+                </option>
+                <option value="Transportation">
+                 Transportation
+                </option>
+                <option value="Women`s Status &amp; Issues">
+                 Women`s Status &amp; Issues
+                </option>
+               </select>
+              </div>
+              <div class="ngodirButton" style="margin-top: 4px;">
+               <a href="javascript: document.fs.submit();">
+                REFINE RESULTS
+               </a>
+              </div>
+              <span align="left">
+               <a href="#" onmouseout="document.getElementById('desc1').style.display='none' " onmouseover="document.getElementById('desc1').style.display='block'">
+                <b>
+                 ?
+                </b>
+               </a>
+               <div class="tip" id="desc1" onmouseout="this.style.display='none'" onmouseover="this.style.display='block'" style="left: inherit; top:inherit; position:absolute;display: none;%">
+                <div align="left">
+                 Select countries and areas of activity
+                 <br/>
+                 and click
+                 <em>
+                  Refine Results
+                 </em>
+                 .
+                 <br/>
+                 To select more than one item,
+                 <br/>
+                 hold down
+                 <em>
+                  control
+                 </em>
+                 key and click (Windows),
+                 <br/>
+                 hold down
+                 <em>
+                  command
+                 </em>
+                 key and click (Macintosh).
+                </div>
+               </div>
+              </span>
+             </form>
+            </div>
+           </td>
+          </tr>
+         </table>
         </div>
         <iframe id="loader" style="display:none">
          hello
